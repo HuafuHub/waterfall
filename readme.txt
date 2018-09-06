@@ -1,3 +1,3 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git is add new row of huafu.
+Git is one.
+Git is two.
+Git is three.
